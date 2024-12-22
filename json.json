@@ -102,7 +102,6 @@
     "Dermatologist Recommended": "categories/beauty-personal-care",
     "Beauty Subscription Boxes": "categories/beauty-personal-care"
     
-	
     "Clothing & Fashion": "categories/clothing-fashion",
     "Men's Clothing": "categories/clothing-fashion",
     "Women's Clothing": "categories/clothing-fashion",
@@ -142,7 +141,6 @@
     "Designer Clothing": "categories/clothing-fashion",
     "Seasonal Fashion": "categories/clothing-fashion"
     
-
     "Electronics": "categories/electronics",
     "Mobile Phones": "categories/electronics",
     "Smartphones": "categories/electronics",
@@ -407,5 +405,5 @@
     "Adventure Travel": "categories/sports-outdoors",
     "Sports Books": "categories/sports-outdoors",
     "Sports Videos": "categories/sports-outdoors"
-    
+   
 }
