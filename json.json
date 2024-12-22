@@ -69,8 +69,8 @@
     "Beverages": "categories/home-kitchen",
     "Health & Wellness": "categories/home-kitchen"
    
-    "Beauty & Personal Care": "categories/beauty-personal-care",
-    "Health & Beauty":"categories/beauty-personal-care",
+    "Beauty & Personal Care": "beauty-personal-care",
+    "Health & Beauty":"beauty-personal-care",
     "Skin Care": "categories/beauty-personal-care",
     "Makeup": "categories/beauty-personal-care",
     "Hair Care": "categories/beauty-personal-care",
